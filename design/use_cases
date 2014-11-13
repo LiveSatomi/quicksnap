@@ -1,0 +1,16 @@
+Quicksnap Use Cases
+
+UC01 Start program
+UC02 End program
+UC03 Set home directory
+UC04 Take full screenshot
+UC05 Take partial screenshot
+UC06 Save images locally:
+	Save the last X (3) number of pictures in a temp directory, unless save is toggled during or after screenshot
+UC07 View image:
+	Show the default save directory in a side panel, where the selected image is displayed in the image view.
+UC08 Upload to imagesharing host
+UC09 Specify an imagesharing host
+UC10 Forget link
+
+UCX1 Drawing on pictures before uploading

@@ -1,4 +1,4 @@
-quicksnap
+Quicksnap
 =========
 
-Application to make screenshots and upload them to the internet
+Application to make screenshots and upload them to the internet.
